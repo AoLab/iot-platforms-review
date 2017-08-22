@@ -17,8 +17,8 @@ to see IoT Platform requirements and features.
   <tbody>
   <tr>
     <td>1</td>
-    <td><a href="kaa.html">Kaa</a></td>
-    <td><a href="https://www.kaaproject.org/"></a></td>
+    <td><a href="kaa.md">Kaa</a></td>
+    <td><https://www.kaaproject.org/</td>
   </tr>
   <tr>
     <td>2</td>
