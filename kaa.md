@@ -51,3 +51,13 @@ or submit to the immediate stream analysis.
 The Kaa Events subsystem is designed to generate endpoint
 events in real time, send them to <strong>other endpoints</strong> of the
 same owner and to Kaa server for processing.
+
+## Non-Functional Requirements
+
+#### Security
+Kaa server is secured using hybrid encryption with RSA and AES.
+
+#### Reliability
+Kaa is designed to be fault-tolerant.
+There is no SPoF in the cluster and the endpoint data
+is stored in fault-tolerant databases.
