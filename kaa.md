@@ -18,8 +18,8 @@ Messaging is enabled between devices belonging to the same *user*.
 
 ## General Information
 
-#### Architecture
-Flat Distribution
+#### Scalability
+Horizontally Scalable
 
 #### Database
 Some metadata is stored in an SQL database, but all of the endpoint-related data is stored in
@@ -28,7 +28,7 @@ Cassandra and MongoDB. Kaa provides an abstraction layer for data storage,
 which means that you can develop and use plugins for other NoSQL databases.
 
 #### Technology & Language
-Java
+Java, Kaa uses the following major third-party components: Akka, Netty, Zookeeper, Curator, Avro, Thrift, and Spring Framework.
 
 #### Connectivity Protocols
 Kaa Protocol (KP) over MQTT, CoAP and TCP
@@ -43,11 +43,11 @@ You can push new configuration and/or notifications via either REST API or Web U
 Kaa currently provides SDKs for C, C++, and Java.
 
 #### Data Collection
-The data collection subsystem in Kaa is designed to collect records (logs) of pre-configured structure,
+The data collection subsystem in Kaa is designed to collect records (logs) with pre-configured structure,
 store them in the client, transfer from the client to Operations service, persist on server for further processing,
 or submit to the immediate stream analysis.
-  
+
 #### Event Management
 The Kaa Events subsystem is designed to generate endpoint
-events in real time, send them to other endpoints of the
+events in real time, send them to <strong>other endpoints</strong> of the
 same owner and to Kaa server for processing.
