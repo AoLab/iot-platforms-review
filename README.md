@@ -22,6 +22,11 @@ to see IoT Platform requirements and features.
   </tr>
   <tr>
     <td>2</td>
+    <td><a href="thing-speak.md">ThingSpeak</a></td>
+    <td>https://thingspeak.com/</td>
+  </tr>
+  <tr>
+    <td>2</td>
     <td>ThingWorx</td>
     <td>https://www.thingworx.com/</td>
   </tr>
