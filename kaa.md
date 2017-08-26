@@ -1,9 +1,7 @@
 ## Platform specification
-#### Open Source
-[Yes](https://github.com/kaaproject/kaa)
 
-#### Cloud Based Service
-[Yes](https://www.kaaiot.io/)
+| Open source | [Yes](https://github.com/kaaproject/kaa) |
+| Cloud based service | [Yes](https://www.kaaiot.io/) |
 
 #### Applications
 Agriculture, Automotive, Consumer Electronics
