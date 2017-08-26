@@ -1,5 +1,7 @@
 ## Platform specification
 
+| Name | Description |
+|:----------:|:-----|
 | Open source | [Yes](https://github.com/kaaproject/kaa) |
 | Cloud based service | [Yes](https://www.kaaiot.io/) |
 
