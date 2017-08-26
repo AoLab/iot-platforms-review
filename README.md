@@ -5,6 +5,11 @@ We review some popular IoT platforms and find their features, specifications and
 We decide to summerize our reseach here. If you are a developer you can review this research in order
 to see IoT Platform requirements and features.
 
+## Categories
+1. Open or Closed Source
+2. Enterprise (PaaS) Service or SOHO Distribution
+3. General or Specific purpose
+
 ## Platforms
 <table class="table table-striped">
   <thead>
