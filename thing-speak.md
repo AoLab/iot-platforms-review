@@ -1,9 +1,12 @@
-## Platform specification
-#### Open Source
-[Yes](https://github.com/iobridge/thingspeak)
+<p align="center">
+  <img src="https://cdn.sparkfun.com/assets/learn_tutorials/5/9/4/92153_wm_logo.png">
+</p>
 
-#### Cloud Based Service
-[Yes](https://thingspeak.com/prices)
+## Platform specification
+
+Open source | Cloud based service
+------------|--------------------
+[Yes](https://github.com/iobridge/thingspeak) | [Yes](https://thingspeak.com/prices)
 
 #### Applications
 Sensor logging applications,
