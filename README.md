@@ -150,5 +150,10 @@ to see IoT Platform requirements and features.
     <td>OpenHAB</td>
     <td>https://www.openhab.org/</td>
   </tr>
+  <tr>
+    <td>26</td>
+    <td>The Things Network</td>
+    <td>https://www.thethingsnetwork.org/</td>
+  </tr>
   </tbody>
 </table>
