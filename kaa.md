@@ -1,3 +1,7 @@
+<p align = "center">
+  <img src="https://www.kaaproject.org/wp-content/uploads/2014/09/kaawhite.png" width=500 >
+</p>
+
 ## Platform specification
 
 | Name | Description |
@@ -24,14 +28,14 @@ Horizontally Scalable
 #### Database
 Some metadata is stored in an SQL database, but all of the endpoint-related data is stored in
 a NoSQL database. Kaa currently supports two options for NoSQL data storage:
-Cassandra and MongoDB. Kaa provides an abstraction layer for data storage,
+_Cassandra_ and _MongoDB_. Kaa provides an abstraction layer for data storage,
 which means that you can develop and use plugins for other NoSQL databases.
 
 #### Technology & Language
-Java, Kaa uses the following major third-party components: Akka, Netty, Zookeeper, Curator, Avro, Thrift, and Spring Framework.
+Java; Kaa uses the following major third-party components: Akka, Netty, Zookeeper, Curator, Avro, Thrift, and Spring Framework.
 
 #### Connectivity Protocols
-Kaa Protocol (KP) over MQTT, CoAP and TCP
+Kaa Protocol (KP) over _MQTT_, _CoAP_ and _TCP_.
 
 #### Thing-Platform Interaction Types
 You can push data to your device by using either the Kaa configuration update or Kaa notifications.
