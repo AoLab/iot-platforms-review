@@ -4,9 +4,9 @@
 
 ## Platform specification
 
-Open source | Cloud based service
-------------|--------------------
-[Yes](https://github.com/iobridge/thingspeak) | [Yes](https://thingspeak.com/prices)
+| Open source | Cloud based service | Purpose |
+|:-----------:|--------------------:|:-------:|
+| [Yes](https://github.com/iobridge/thingspeak) | [Yes](https://thingspeak.com/prices) | General |
 
 #### Applications
 Sensor logging applications,
