@@ -122,7 +122,7 @@ to see IoT Platform requirements and features.
   </tr>
   <tr>
     <td>20</td>
-    <td>Amazon AWS</td>
+    <td><a href="amazon.md">Amazon AWS</a></td>
     <td>https://aws.amazon.com/iot-platform/</td>
   </tr>
   <tr>
