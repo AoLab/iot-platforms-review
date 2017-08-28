@@ -5,7 +5,7 @@
 ## Platform specification
 
 | Open source | Cloud based service | Purpose |
-|:-----------:|--------------------:|:-------:|
+|:-----------:|:--------------------:|:-------:|
 | No | [Yes](https://aws.amazon.com/iot-platform) | General |
 
 #### Applications
