@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="" width=500 >
+  <img src="https://s3-us-west-2.amazonaws.com/www.breadware.com/integrations/aws-iot.png" width=500 >
 </p>
 
 ## Platform specification
