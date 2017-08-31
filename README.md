@@ -1,5 +1,7 @@
 # IoT Platforms Review
 
+![license](https://img.shields.io/github/license/bambil/iot-platforms-review.svg?style=flat-square)
+
 ## Introduction
 We review some popular IoT platforms and find their features, specifications and architectures.
 We decide to summerize our reseach here. If you are a developer you can review this research in order
@@ -157,3 +159,6 @@ to see IoT Platform requirements and features.
   </tr>
   </tbody>
 </table>
+
+## Contributions
+Please refer to contribution template [here]('CONTRIBUTION.md') for adding new platforms.
