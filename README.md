@@ -69,7 +69,7 @@ to see IoT Platform requirements and features.
   </tr>
   <tr>
     <td>9</td>
-    <td>Thingsboard</td>
+    <td><a href="thingsboard.md">Thingsboard<a></td>
     <td>https://thingsboard.io</td>
   </tr>
   <tr>
