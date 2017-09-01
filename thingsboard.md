@@ -13,8 +13,8 @@ General purpose platform. Examples: bus tracking, energy monitoring.
 Adding new functionality is easy with customizable widgets, rule engine and plugin system.
 
 #### Type
-1- Devices can't communicate with each other without server between them.
-2- Applications communicate with server in the first layer and then server sends the request to
+1. Devices can't communicate with each other without server between them.
+2. Applications communicate with server in the first layer and then server sends the request to
 devices. There is no direct way.
 
 ## General Information
