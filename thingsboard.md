@@ -46,6 +46,7 @@ Java, Scala
 #### Thing-Platform Interaction Types
 - Events and Alarams
 - ThingsBoard provides the ability to assign custom attributes to your entities and manage these attributes.
+- ThingsBoard allows you to send remote procedure calls (RPC) from server side applications to devices and vice versa.
 
 #### SDK 4 Things
 The ThingsBoard IoT Gateway will help you to integrate devices
@@ -58,5 +59,9 @@ that are connected to legacy and third-party systems with ThingsBoard IoT platfo
 ## Non-Functional Requirements
 
 #### Security
+- MQTT over SSL
+- Device authentication
+- Access Token based authentication
+- X.509 Certificate based authentication
 
 #### Reliability
