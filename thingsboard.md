@@ -31,12 +31,25 @@ replication and provides scalable, reliable
 and fault-tolerant storage.
 
 #### Technology & Language
+Java, Scala
+
+- Akka - for actor system implementation
+- Zookeeper - for services coordination
+- gRPC - for high-performance RPC
+- Cassandra - as a scalable and reliable database
 
 #### Connectivity Protocols
+- CoAP
+- HTTP
+- MQTT
 
 #### Thing-Platform Interaction Types
+- Events and Alarams
+- ThingsBoard provides the ability to assign custom attributes to your entities and manage these attributes.
 
 #### SDK 4 Things
+The ThingsBoard IoT Gateway will help you to integrate devices
+that are connected to legacy and third-party systems with ThingsBoard IoT platform.
 
 #### Data Collection
 
