@@ -53,8 +53,13 @@ The ThingsBoard IoT Gateway will help you to integrate devices
 that are connected to legacy and third-party systems with ThingsBoard IoT platform.
 
 #### Data Collection
+Collect and store telemetry data in reliable way,
+surviving network and hardware failures.
+Access collected data using customizable web
+dashboards or server-side APIs.
 
 #### Event Management
+ThingsBoard provides the ability to create and manage alarms related to your entities: devices, assets, customers, etc.
 
 ## Non-Functional Requirements
 
@@ -65,3 +70,8 @@ that are connected to legacy and third-party systems with ThingsBoard IoT platfo
 - X.509 Certificate based authentication
 
 #### Reliability
+ThingsBoard adopts consistent hashing to ensure scalability and availability.
+Message from Device A that is received on a particular node may be
+forwarded to the other node based on the hash of the device ID.
+Although this introduces certain networking overhead,
+it allows to process all messages from a particular device using corresponding device actor on a determined server
