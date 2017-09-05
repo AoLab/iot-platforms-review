@@ -5,7 +5,7 @@
 ## Platform specification
 
 | Open source | Cloud based service | Purpose |
-|:-----------:|--------------------:|:-------:|
+|:-----------:|:--------------------:|:-------:|
 | [Yes](https://github.com/kaaproject/kaa) | [Yes](https://www.kaaiot.io/) | General |
 
 #### Applications
