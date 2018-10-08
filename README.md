@@ -43,6 +43,9 @@ to see IoT Platform requirements and features.
 | 25 | SiteWhere | http://www.sitewhere.org |
 | 26 | OpenHAB | https://www.openhab.org |
 | 27 | The Things Network | https://www.thethingsnetwork.org |
+| 28 | AllThingsTalk | |
+| 29 | Ubidot | |
+| 30 | resin.io | |
 
 ## Contributions
 Please refer to contribution template [here]('CONTRIBUTION.md') for adding new platforms.
