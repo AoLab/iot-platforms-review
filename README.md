@@ -44,7 +44,7 @@ to see IoT Platform requirements and features.
 | 26 | OpenHAB | https://www.openhab.org |
 | 27 | The Things Network | https://www.thethingsnetwork.org |
 | 28 | AllThingsTalk | https://www.allthingstalk.com/ |
-| 29 | Ubidot | https://ubidots.com/ |
+| 29 | Ubidots | https://ubidots.com/ |
 | 30 | resin.io | https://resin.io/ |
 
 ## Contributions
