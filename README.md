@@ -16,6 +16,7 @@ to see IoT Platform requirements and features.
 ### [IoT Analytics](https://iot-analytics.com/)
 - [5 Things To Know About The IoT Platform Ecosystem](https://iot-analytics.com/5-things-know-about-iot-platform/)
 - [IoT Platforms](http://iot-analytics.com/wp/wp-content/uploads/2016/01/White-paper-IoT-platforms-The-central-backbone-for-the-Internet-of-Things-Nov-2015-vfi5.pdf)
+- [@IoTPlan](https://iot.itrc.ac.ir/)
 
 ## Platforms
 
